@@ -8,3 +8,9 @@ plot(cars)
 
 
 dim(cars)
+
+
+# New line 2
+
+cars$speed*2
+
